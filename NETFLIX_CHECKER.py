@@ -1,7 +1,8 @@
+# -*- coding: utf-8 -*-
 #python 2
 #coder=MRZ(yassin ehab)
 #my facebook= www.facebook.com/Yassen.elgowely
-# -*- coding: utf-8 -*-
+
 import mechanize
 import time
 driver = mechanize.Browser()
